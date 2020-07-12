@@ -1,0 +1,49 @@
+.main 
+{
+    background-color:rgba(128, 182, 243, 0.938);
+}
+.profile-card
+{
+  margin-left:500px;
+  margin-right:500px;
+  margin-top: 20px;
+  display: block;
+  background-color: white;
+  border-radius: 30px;
+}
+img
+{
+    margin-right:10px;
+    margin-left:10px;
+    padding: 20px;
+    display: block;
+    border-radius:20px;
+}
+.name
+{
+    padding-left: 20px;
+}
+i
+{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.h6 i
+{
+    color:blue;
+}
+.skill i
+{
+    color: blue;
+}
+.skill h6 
+{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.progress
+{
+    border-radius: 50px;
+    width:300px;
+    margin-left: 20px;
+}
