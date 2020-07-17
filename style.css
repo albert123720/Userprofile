@@ -1,6 +1,7 @@
 .main 
 {
     background-color:rgba(128, 182, 243, 0.938);
+    text-align:center;
 }
 .profile-card
 {
@@ -10,7 +11,9 @@
   display: block;
   background-color: white;
   border-radius: 30px;
+  position:fixed;
 }
+
 img
 {
     margin-right:10px;
