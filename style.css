@@ -1,26 +1,26 @@
-.main 
+.main
 {
-    background-color:rgba(128, 182, 243, 0.938);
-    text-align:center;
+    background-color:#cbeaed;
+    color:#01a9b4;
+    font-weight: lighter;
+    text-align: center;
 }
 .profile-card
 {
-  margin-left:500px;
-  margin-right:500px;
-  margin-top: 20px;
-  display: block;
-  background-color: white;
+  marign:100px auto 50px auto;
   border-radius: 30px;
-  position:fixed;
 }
-
+hr
+{
+  border-style: dotted;
+  height: 20px;
+}
 img
 {
-    margin-right:10px;
-    margin-left:10px;
-    padding: 20px;
-    display: block;
+    margin-top:10px;
     border-radius:20px;
+    width:160px;
+    height:160px;
 }
 .name
 {
@@ -33,13 +33,15 @@ i
 }
 .h6 i
 {
-    color:blue;
+    color:#ff847c;
 }
 .skill i
 {
-    color: blue;
+    color: ff847c;
+
+
 }
-.skill h6 
+.skill h6
 {
     margin-top: 20px;
     margin-left: 10px;
@@ -48,6 +50,7 @@ i
 {
     border-radius: 50px;
     width:300px;
-    margin-left: 20px;
-    float:center;
+    margin:auto;
+    width: 100px;
+    height: 20px;
 }
